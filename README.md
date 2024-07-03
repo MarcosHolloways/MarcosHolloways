@@ -26,8 +26,8 @@ I am a dedicated Full Stack Developer with a strong focus on creating innovative
 
 Here are some of my favorite projects:
 
-- [Alien Game](https://github.com/MarcosHolloways/Alien-Game) - A brief description of what this project is about.
-- [Basketball Game](https://github.com/MarcosHolloways/Basketball) - A brief description of what this project is about.
+- [Alien Game](https://github.com/MarcosHolloways/Alien-Game) - A alien game like space invaders made with pygame
+- [Basketball Game](https://github.com/MarcosHolloways/Basketball) - A basketball game made with pygame
 
 ### YouTube Channel
 
