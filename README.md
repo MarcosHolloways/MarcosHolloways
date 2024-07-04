@@ -12,9 +12,9 @@ I am a dedicated Full Stack Developer with a strong focus on creating innovative
 
 ### GitHub Stats
 
-![Marcos Muniz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcos-Holloways&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Holloways&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marcos-Holloways&theme=radical)
+![Marcos Muniz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosHolloways&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosHolloways&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosHolloways&theme=radical)
 
 ### Technologies I Use Daily 🚀
 
