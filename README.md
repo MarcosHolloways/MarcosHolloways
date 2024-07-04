@@ -1,6 +1,6 @@
 # Hello! I am Marcos Muniz 👋
 
-<img src="path-to-your-image" width="100%" alt="Marcos-Holloways">
+<img src="path-to-your-image" width="100%" alt="MarcosHolloways">
 
 ### About Me
 
